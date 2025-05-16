@@ -1,5 +1,5 @@
-train: C:/Users/valer/ProyectoIA/dataset/train
-val: C:/Users/valer/ProyectoIA/dataset/val
+train: ../dataset/train/images
+val: ../dataset/val/images
 
 nc: 3
 names: ['cancer', 'indicios', 'sana']
